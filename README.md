@@ -37,9 +37,8 @@ classDiagram
     }
     namespace SDP {
         class ServiceDemarcationPointBlock {
-            +stp_a
-            +stp_z
             +sdp_name
+            +stps
         }
     }
     namespace SwitchingService {
