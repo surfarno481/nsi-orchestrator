@@ -1,6 +1,8 @@
 # nsi-orchestrator
 
-The NSI orchestrator maintains the lifecycle of network topologies, switching
+The NSI orchestrator, based on the
+[Workflow Orchestrator framework](https://github.com/workfloworchestrator/orchestrator-core),
+maintains the lifecycle of network topologies, switching
 services, Service Termination Points (STP), Service Demarcation Points (SDP),
 and the Multi Domain Point-to-Point (MDP2P) services across a NSI
 infrastructure, using the
